@@ -1,4 +1,6 @@
 # Based on https://raw.githubusercontent.com/github/gitignore/main/Node.gitignore
+user.wav
+ai.mp3
 
 # Logs
 
